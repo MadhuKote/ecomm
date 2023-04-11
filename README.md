@@ -1,4 +1,1 @@
 # ecomm
-Ecommerce Template
-madhu
-
